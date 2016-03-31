@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Aprobacion de recuersos de contratacion" Id="51802636-746b-4084-b845-06508a9ad06b" ReceiverAssembly="LaboratorioContratacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2195dfbe81be8d91" ReceiverClass="LaboratorioContratacion.Features.ContratacionFeature.ContratacionFeatureEventReceiver" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="Manager\Elements.xml" />
+    <ElementManifest Location="Equipo\Elements.xml" />
+    <ElementManifest Location="Inicio\Elements.xml" />
+    <ElementManifest Location="Fin\Elements.xml" />
+    <ElementManifest Location="Aprobado\Elements.xml" />
+    <ElementManifest Location="Contenido\Elements.xml" />
+    <ElementManifest Location="ListadoInstance\Elements.xml" />
+    <ElementManifest Location="Listado\Elements.xml" />
+    <ElementFile Location="Listado\Schema.xml" />
+    <ElementFile Location="Listado\EditDlg.htm" />
+    <ElementFile Location="Listado\FileDlg.htm" />
+    <ElementFile Location="Listado\Repair.aspx" />
+    <ElementFile Location="Listado\Upload.aspx" />
+  </ElementManifests>
+</Feature>

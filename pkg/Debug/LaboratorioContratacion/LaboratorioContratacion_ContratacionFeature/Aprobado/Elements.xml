@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{ba63784b-3789-4acc-b16b-74a353f61575}"
+       Name="Aprobado"
+       DisplayName="Aprobado"
+       Type="Boolean"
+       Required="TRUE"
+       Group="MiApp Site Columns">
+  </Field>
+</Elements>

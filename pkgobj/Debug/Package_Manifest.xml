@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e3513729-275d-4eaa-9780-78a1ab8adccf" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="LaboratorioContratacion.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="LaboratorioContratacion_ContratacionFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
